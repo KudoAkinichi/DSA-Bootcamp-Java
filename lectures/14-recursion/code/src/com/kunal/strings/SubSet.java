@@ -6,8 +6,10 @@ import java.util.List;
 
 public class SubSet {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 2};
-        List<List<Integer>> ans = subsetDuplicate(arr);
+        // int[] arr = { 1, 2, 2 };
+        int[] arr = { 1, 2, 3 };
+        // List<List<Integer>> ans = subsetDuplicate(arr);
+        List<List<Integer>> ans = subset(arr);
         for (List<Integer> list : ans) {
             System.out.println(list);
         }
@@ -36,7 +38,7 @@ public class SubSet {
         for (int i = 0; i < arr.length; i++) {
             start = 0;
             // if current and previous element is same, s = e + 1
-            if (i > 0 && arr[i] == arr[i-1]) {
+            if (i > 0 && arr[i] == arr[i - 1]) {
                 start = end + 1;
             }
             end = outer.size() - 1;
