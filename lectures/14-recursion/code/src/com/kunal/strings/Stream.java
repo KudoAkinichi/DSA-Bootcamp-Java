@@ -2,7 +2,9 @@ package com.kunal.strings;
 
 public class Stream {
     public static void main(String[] args) {
-        System.out.println(skipAppNotApple("bacapplcdah"));
+        // System.out.println(skipAppNotApple("bacapplcdah"));
+        // System.out.println(skip("", "bacapplcdah"));
+        skip("", "bacapplcdah");
     }
 
     static void skip(String p, String up) {

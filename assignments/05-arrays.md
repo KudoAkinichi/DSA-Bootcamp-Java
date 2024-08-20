@@ -9,7 +9,7 @@
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) ✅
 4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) ✅✅
 5. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) ✅
-6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+6. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) ✅
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) ✅📝(<https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/524996/java-beats-100-o-n>)
 9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) ✅
@@ -30,7 +30,20 @@
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 26. [Plus One](https://leetcode.com/problems/plus-one/) ✅
-27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) ✅
+If you are a beginner solve these problems which makes concepts clear for future coding:
+
+Two Sum
+Roman to Integer
+Palindrome Number
+Maximum Subarray
+Remove Element
+Contains Duplicate
+Add Two Numbers
+Majority Element
+Remove Duplicates from Sorted Array
+Practice them in a row for better understanding and please Upvote the post for more questions.
+If you found my solution helpful, I would greatly appreciate your upvote, as it would motivate me to continue sharing more solutions.
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
 ### Medium
