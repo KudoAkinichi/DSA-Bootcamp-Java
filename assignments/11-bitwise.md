@@ -4,18 +4,18 @@
 
 ## Easy
 
-- [Add Binary](https://leetcode.com/problems/add-binary/)
-- [Single Number](https://leetcode.com/problems/single-number/)
+- [Add Binary](https://leetcode.com/problems/add-binary/) ✅
+- [Single Number](https://leetcode.com/problems/single-number/) ✅
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [Binary Watch](https://leetcode.com/problems/binary-watch/)
-- [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+- [Hamming Distance](https://leetcode.com/problems/hamming-distance/) ✅
 - [Number Complement](https://leetcode.com/problems/number-complement/)
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
-- [Binary Gap](https://leetcode.com/problems/binary-gap/)
+- [Binary Gap](https://leetcode.com/problems/binary-gap/) ✅
 - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
